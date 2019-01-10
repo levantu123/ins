@@ -1,0 +1,10 @@
+.icon-bar
+    a.active &#9776;
+    a(href="#")
+        i.fa.fa-home
+.navbar.bg-light
+    a.navLogo(href="#") Logo
+    span {{data.title}}
+.content
+    a(*ngFor="let item of listItem._embedded.activities")
+        i(class="{{ item.icon }}" aria-hidden="true")

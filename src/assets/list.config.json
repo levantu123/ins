@@ -1,0 +1,40 @@
+{
+    "_embedded" : {
+      "activities" : [ {
+        "name" : "A",
+        "description" : null,
+        "url" : null,
+        "icon" : "fa fa-indent"
+      },
+      {
+        "name" : "A",
+        "description" : null,
+        "url" : null,
+        "icon" : "fa fa-pencil"
+      },
+      {
+        "name" : "A",
+        "description" : null,
+        "url" : null,
+        "icon" : "fa fa-outdent"
+      },
+      {
+        "name" : "A",
+        "description" : null,
+        "url" : null,
+        "icon" : "fa fa-drupal"
+      },
+      {
+        "name" : "A",
+        "description" : null,
+        "url" : null,
+        "icon" : null
+      }]
+    },
+    "page" : {
+      "size" : 20,
+      "totalElements" : 116963,
+      "totalPages" : 5849,
+      "number" : 0
+    }
+  }

@@ -1,0 +1,45 @@
+.icon-bar {
+    float: left;
+    width: 5%;
+    min-width: 50px;
+    background-color: #f8f9fa;
+    height: -webkit-fill-available;
+    position: fixed
+  }
+  
+  .icon-bar a {
+    display: block;
+    text-align: center;
+    padding: 0.5rem 1rem;
+    transition: all 0.3s ease;
+    color: white;
+    font-size: 12px;
+  }
+  .navbar{
+    font-size: 12px;
+  }
+  .icon-bar a:hover {
+    background-color: #000;
+  }
+  
+  .active {
+    background-color: rgb(226, 226, 226);
+  }
+  .content a {
+    width: 2em;
+    height: 2em;
+    display: inline-block;
+    text-align: center;
+    padding: 0.5rem 1rem;
+    transition: all 0.3s ease;
+    color: #17a2b8;
+    font-size: 60px;
+    border-style: dotted;
+    border-width: 1px;
+    margin: 1em;
+  }
+  .content{
+      display: block;
+      padding: 0 0 0 3em;
+      justify-content: space-between;
+  }
